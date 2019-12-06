@@ -1,0 +1,22 @@
+SEMANTIC TEXTUAL SIMILARITY
+Some More Examples
+
+Sentence 1: Micron has declared its first quarterly profit for three years.
+Sentence 2: Micron's numbers also marked the first quarterly profit in three years for the DRAM manufacturer.
+Score assigned: 4
+
+Sentence 1: Amgen shares gained 93 cents, or 1.45 percent, to $65.05 in afternoon trading on Nasdaq.
+Sentence 2: Shares of Allergan were up 14 cents at $78.40 in late trading on the New York Stock Exchange.
+Score Assigned: 1
+
+Sentence 1: The tech-loaded Nasdaq composite rose 20.96 points to 1595.91, ending at its highest level for 12 months.
+Sentence 2: The technology-laced Nasdaq Composite Index <.IXIC> climbed 19.11 points, or 1.2 percent, to 1,615.02.
+Score Assigned: 2
+
+Sentence 1: Counties with population declines will be Vermillion, Posey and Madison.
+Sentence 2: Vermillion, Posey and Madison County populations will decline.
+Score Assigned: 5
+
+Sentence 1: One, Fort Carson-based Sgt. Ernest Bucklew, 33, had been on his way home to attend his mother's funeral in Pennsylvania.
+Sentence 2: Sgt. Ernest Bucklew, 33, was coming home from Iraq to bury his mother in Pennsylvania.
+Score Assigned: 3
